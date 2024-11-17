@@ -58,10 +58,10 @@ HTML/
 <h2 style="font-size: 2em; border-bottom: 2px solid #d8dee4; color: #282d33;">🖼️ 스크린샷</h2>
 
 <h3 style="font-size: 1.5em; color: #282d33;">📌 Foodshop 메인 페이지</h3>
-<img src="/HTML/foodshop/images/foodshop.jpg" alt="Foodshop Main" width="600">
+<img src="/foodshop/images/foodshop.jpg" alt="Foodshop Main" width="600">
 
 <h3 style="font-size: 1.5em; color: #282d33;">📌 Real113 부동산 템플릿</h3>
-<img src="/HTML/real113/images/real113.jpg" alt="Real113 Main" width="600">
+<img src="/real113/images/real113.jpg" alt="Real113 Main" width="600">
 
 
 <h2 style="font-size: 2em; border-bottom: 2px solid #d8dee4; color: #282d33;">🤝 기여 방법</h2>
